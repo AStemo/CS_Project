@@ -2,3 +2,5 @@
 Project for CS5802
 
 The Tensorflow Testing Playground notebook can be used to show and share tidbits of code we are playing with
+
+Catalogs notebook is used for manipulating catalogs and looking at information
